@@ -1,0 +1,21 @@
+C:\Users\Monster\Desktop\Görsel Ödev 5\SinemaBilet\SinemaBilet\bin\Debug\SinemaBilet.exe.config
+C:\Users\Monster\Desktop\Görsel Ödev 5\SinemaBilet\SinemaBilet\bin\Debug\SinemaBilet.exe
+C:\Users\Monster\Desktop\Görsel Ödev 5\SinemaBilet\SinemaBilet\bin\Debug\SinemaBilet.pdb
+C:\Users\Monster\Desktop\Görsel Ödev 5\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\Görsel Ödev 5\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.Form1.resources
+C:\Users\Monster\Desktop\Görsel Ödev 5\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.Properties.Resources.resources
+C:\Users\Monster\Desktop\Görsel Ödev 5\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Görsel Ödev 5\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Görsel Ödev 5\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.exe
+C:\Users\Monster\Desktop\Görsel Ödev 5\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.pdb
+C:\Users\sametpkz\Desktop\Görsel Ödev 5\Görsel Ödev 5\ödev  5\SinemaBilet\bin\Debug\SinemaBilet.exe.config
+C:\Users\sametpkz\Desktop\Görsel Ödev 5\Görsel Ödev 5\ödev  5\SinemaBilet\bin\Debug\SinemaBilet.exe
+C:\Users\sametpkz\Desktop\Görsel Ödev 5\Görsel Ödev 5\ödev  5\SinemaBilet\bin\Debug\SinemaBilet.pdb
+C:\Users\sametpkz\Desktop\Görsel Ödev 5\Görsel Ödev 5\ödev  5\SinemaBilet\obj\Debug\SinemaBilet.csproj.AssemblyReference.cache
+C:\Users\sametpkz\Desktop\Görsel Ödev 5\Görsel Ödev 5\ödev  5\SinemaBilet\obj\Debug\SinemaBilet.csproj.SuggestedBindingRedirects.cache
+C:\Users\sametpkz\Desktop\Görsel Ödev 5\Görsel Ödev 5\ödev  5\SinemaBilet\obj\Debug\SinemaBilet.Form1.resources
+C:\Users\sametpkz\Desktop\Görsel Ödev 5\Görsel Ödev 5\ödev  5\SinemaBilet\obj\Debug\SinemaBilet.Properties.Resources.resources
+C:\Users\sametpkz\Desktop\Görsel Ödev 5\Görsel Ödev 5\ödev  5\SinemaBilet\obj\Debug\SinemaBilet.csproj.GenerateResource.cache
+C:\Users\sametpkz\Desktop\Görsel Ödev 5\Görsel Ödev 5\ödev  5\SinemaBilet\obj\Debug\SinemaBilet.csproj.CoreCompileInputs.cache
+C:\Users\sametpkz\Desktop\Görsel Ödev 5\Görsel Ödev 5\ödev  5\SinemaBilet\obj\Debug\SinemaBilet.exe
+C:\Users\sametpkz\Desktop\Görsel Ödev 5\Görsel Ödev 5\ödev  5\SinemaBilet\obj\Debug\SinemaBilet.pdb

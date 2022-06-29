@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="_sinemabilet1_2003DataSet" targetNamespace="http://tempuri.org/_sinemabilet1_2003DataSet.xsd" xmlns:mstns="http://tempuri.org/_sinemabilet1_2003DataSet.xsd" xmlns="http://tempuri.org/_sinemabilet1_2003DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultbaglantiionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <baglantiions>
+          <baglantiion AppSettingsObjectName="Settings" AppSettingsPropertyName="sinemabilet1_2003baglantiionString" baglantiionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="sinemabilet1_2003baglantiionString (Settings)" PropertyReference="ApplicationSettings.SinemaBilet.Properties.Settings.GlobalReference.Default.sinemabilet1_2003baglantiionString" Provider="System.Data.OleDb" />
+        </baglantiions>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="_sinemabilet1_2003DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="_sinemabilet1_2003DataSet" msprop:Generator_UserDSName="_sinemabilet1_2003DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
